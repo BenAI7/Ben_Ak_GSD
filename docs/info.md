@@ -13,7 +13,7 @@ Ben_Ak_Tiny
 
 ## How to test
 
-Explain how to use your project
+Test for now!
 
 ## External hardware
 
